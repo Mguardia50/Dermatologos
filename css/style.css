@@ -86,15 +86,17 @@ iframe{
     color: black;
 }
 
-.bi-menu-button-wide{
-    font-size: 30px;
-    text-align: center;
-}
 
 .bi{
     padding-right: 10px;
     font-size: 40px;
 }
+
+.bi-menu-button-wide{
+    font-size: 30px;
+    text-align: center;
+}
+
 @media only screen and (max-width:999px){
     .justify-content-center{
         display: grid;
